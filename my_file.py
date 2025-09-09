@@ -8,3 +8,5 @@ def hi_there():
 def my_function():
     return "Hi"
 
+print('Hi')
+
